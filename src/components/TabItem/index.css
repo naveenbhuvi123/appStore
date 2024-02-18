@@ -1,0 +1,17 @@
+.button {
+  font-family: 'Roboto';
+  color: #1e293b;
+  font-weight: 500;
+  font-size: 16px;
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  border-bottom: 2px solid #9aa5b1;
+  padding-right: 20px;
+  opacity: 0.5;
+}
+.btn-button {
+  border-bottom: 2px solid #2563eb;
+  color: #2563eb;
+}

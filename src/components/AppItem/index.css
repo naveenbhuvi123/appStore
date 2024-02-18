@@ -1,0 +1,21 @@
+.app-card {
+  background-color: #ffffff;
+  height: 140px;
+  width: 120px;
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center;
+  margin: 10px;
+  cursor: pointer;
+  justify-content: center;
+}
+.app-img {
+  width: 60px;
+  height: 70px;
+}
+.app-name {
+  font-size: 13px;
+  font-family: Bree serif;
+}
